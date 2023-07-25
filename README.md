@@ -3,8 +3,8 @@
 ##
 
 - 🔭 I’m currently search for job 
-- 🌱 Web Developer Student 
-- 🌱 I’m currently learning Node.js and React
+- 🌱 Web Developer 
+- 🌱 I’m currently learning Java and Spring Boot
 - 🌱 CRVG is my passion 
 <div align="center">
   <a href="https://github.com/Gabrielbndo">
