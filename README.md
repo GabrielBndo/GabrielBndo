@@ -17,7 +17,7 @@
   <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Biel-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/86/02/9e/86029e2bcad33c0e17cd12aa8e717491.gif">
-   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java.svg">
+   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2013/240/iconmonstr-coffee-7.png">
 </div>
 
 ##
